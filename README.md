@@ -88,5 +88,16 @@ Hệ thống hỗ trợ tính toán các chỉ số:
 ## **7. Tài liệu dự án**
 Toàn bộ tài liệu BA được lưu trong thư mục **QLKHTN/**
 
+## 📑 Bản quyền & Sử dụng
+Tài liệu và sản phẩm trong dự án này thuộc quyền sở hữu của **Phạm Huy Hảo**.  
+Chỉ được sử dụng cho mục đích **học tập, nghiên cứu và tham khảo**.  
+
+# 📩 Liên hệ
+**Phạm Huy Hảo – Business Analyst**  
+📧 Email: **phamhuyhao20040605@gmail.com**  
+📞 Điện thoại: **0326 040 228**  
+📍 Địa chỉ: **Hà Nội, Việt Nam**
+
+
 
 
