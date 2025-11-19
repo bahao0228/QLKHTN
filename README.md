@@ -85,3 +85,8 @@ Hệ thống hỗ trợ tính toán các chỉ số:
 * Quy trình nghiệp vụ chuẩn hóa
 * Báo cáo & logic phân tích
 
+## **7. Tài liệu dự án**
+Toàn bộ tài liệu BA được lưu trong thư mục **QLKHTN/**
+
+
+
